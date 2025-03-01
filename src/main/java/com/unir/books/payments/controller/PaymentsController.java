@@ -1,8 +1,8 @@
-package com.relatospapel.ms_books_payments.controller;
+package com.unir.books.payments.controller;
 
-import com.relatospapel.ms_books_payments.controller.model.PaymentRequest;
-import com.relatospapel.ms_books_payments.data.model.Payment;
-import com.relatospapel.ms_books_payments.service.PaymentsService;
+import com.unir.books.payments.controller.model.PaymentRequest;
+import com.unir.books.payments.data.model.Payment;
+import com.unir.books.payments.service.PaymentsService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

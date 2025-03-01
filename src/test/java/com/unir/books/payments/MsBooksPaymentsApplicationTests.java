@@ -1,4 +1,4 @@
-package com.relatospapel.ms_books_payments;
+package com.unir.books.payments;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

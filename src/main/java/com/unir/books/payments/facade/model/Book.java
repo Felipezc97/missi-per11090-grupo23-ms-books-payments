@@ -1,4 +1,4 @@
-package com.relatospapel.ms_books_payments.facade.model;
+package com.unir.books.payments.facade.model;
 
 import lombok.*;
 

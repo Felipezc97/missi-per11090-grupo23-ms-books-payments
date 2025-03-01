@@ -1,4 +1,4 @@
-package com.relatospapel.ms_books_payments.controller.model;
+package com.unir.books.payments.controller.model;
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;

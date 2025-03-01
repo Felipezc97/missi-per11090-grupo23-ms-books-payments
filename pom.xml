@@ -8,8 +8,8 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.relatospapel</groupId>
-	<artifactId>ms-books-payments</artifactId>
+	<groupId>com.unir.books.payments</groupId>
+	<artifactId>books-payments-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ms-books-payments</name>
 	<description>Microservicio para registrar pagos</description>

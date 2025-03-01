@@ -1,6 +1,6 @@
-package com.relatospapel.ms_books_payments.facade;
+package com.unir.books.payments.facade;
 
-import com.relatospapel.ms_books_payments.facade.model.Book;
+import com.unir.books.payments.facade.model.Book;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.relatospapel.ms_books_payments.data.model;
+package com.unir.books.payments.data.model;
 
 import jakarta.persistence.*;
 import lombok.*;
